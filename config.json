@@ -1,41 +1,29 @@
 {
-  "user": "instagrammer",
-  "user_url": "instagrammer",
-  "media": "https://instagram.com",
+  "user": "KO Otouto",
+  "user_url": "kootouto",
+  "media": "https://twitter.com/KoOtouto",
   "symbol": "@",
-  "media_name": "Instagram",
-  "name": "Instagrammer",
+  "media_name": "Twitter",
+  "name": "KO Otouto",
   "photo": "https://cdn.glitch.com/35409746-8e4a-406e-ac47-16c4db92cad8%2F10x100profile.jpeg",
   "img_top": "150",
   "img_margin": "0",
-  "home": "/@/instagrammer.html",
-  "display":"instagrammer",
+  "home": "/@/kootouto.html",
+  "display":"kootouto",
 
   "msg": "You are being teleported to",
 
-  "title1": "Link 1",
-  "link1": "/link.html",
+  "title1": "bandcamp",
+  "link1": "https://kootouto.bandcamp.com/",
 
-  "title2": "Link 2",
-  "link2": "/link.html",
+  "title2": "audius",
+  "link2": "https://audius.co/ko_otouto",
 
-  "title3": "",
-  "link3": "",
-
-  "title4": "",
-  "link4": "",
-
-  "title5": "",
-  "link5": "",
+  "title3": "soundcloud",
+  "link3": "https://soundcloud.com/user-970079200",
   
-  "title6":"",
-  "link6":"",
+  "title4": "twitter",
+  "link4": "https://twitter.com/KoOtouto",
   
-  "title7":"",
-  "link7":"",
-
-  "bio": "This person has not setup a bio yet...",
-
-  "Topic1": "",
-  "Topic2": ""
+  "bio": "synthwave, video game music, musical doodles, making music cuz it makes me feel good"
 }
